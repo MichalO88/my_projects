@@ -16,4 +16,4 @@ nav:
 - Obecny projekt:
   - "Iris": iris/index.md 
 - Poprzednie projekty:
-  - "Ankieta": survey_app/index.md
+  - "Przewidywanie ubezpieczenia": app_predict_insurance/index.md
