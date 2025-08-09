@@ -1,0 +1,16 @@
+site_name: Moje projekty
+site_author: Micha Orman
+site_description: >-
+    Moje wspaniałe projekty.
+
+theme:
+  name: material
+  palette:
+    primary: green
+
+nav:
+- Strona Domowa: index.md
+- Obecny projekt:
+  - "Iris": iris/index.md 
+- Poprzednie projekty:
+  - "Ankieta": survey_app/index.md
