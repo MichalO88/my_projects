@@ -11,9 +11,6 @@ theme:
   name: material
   palette:
     primary: green
-  features:
-    - 'toc'  # Ta opcja włącza spis treści
-    - 'toc.snappy'
 
 nav:
 - Strona Domowa: index.md
