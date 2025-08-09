@@ -3,6 +3,9 @@ site_author: Micha Orman
 site_description: >-
     Moje wspaniałe projekty.
 
+repo_name: MichalO88/my_projects
+repo_url: https://github.com/MichalO88/my_projects
+
 theme:
   name: material
   palette:
