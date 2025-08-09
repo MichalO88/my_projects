@@ -13,7 +13,7 @@ theme:
     primary: green
   features:
     - 'toc'  # Ta opcja włącza spis treści
-    - 'toc.snappy
+    - 'toc.snappy'
 
 nav:
 - Strona Domowa: index.md
@@ -21,4 +21,4 @@ nav:
   - "Iris": iris/index.md 
 - Poprzednie projekty:
   - "Przewidywanie ubezpieczenia": app_predict_insurance/index.md
-  
+
