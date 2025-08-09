@@ -17,5 +17,5 @@ nav:
 - Obecny projekt:
   - "Iris": iris/index.md 
 - Poprzednie projekty:
-  - "Przewidywanie ubezpieczenia": app_predict_insurance/index.md
+  - "Przewidywanie kwoty ubezpieczenia": app_predict_insurance/index.md
 
