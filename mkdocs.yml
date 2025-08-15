@@ -15,7 +15,7 @@ theme:
 nav:
 - Strona Domowa: index.md
 - Obecny projekt:
-  - "Iris": iris/index.md 
+  - "Przewidywanie kwoty ubezpieczenia": app_predict_insurance/index.md  
 - Poprzednie projekty:
-  - "Przewidywanie kwoty ubezpieczenia": app_predict_insurance/index.md
+  - "Iris": iris/index.md
 
