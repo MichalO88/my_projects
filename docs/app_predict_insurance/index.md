@@ -1,3 +1,3 @@
 Testowa aplikacja do przewidywania kwoty ubezpieczenia: 
 
-https://appinsuranceprediction-6bzgztrq7m69bnkainnkey.streamlit.app/
+*[Link do aplikacji](https://appinsuranceprediction-6bzgztrq7m69bnkainnkey.streamlit.app/)*
