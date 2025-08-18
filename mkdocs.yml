@@ -18,5 +18,5 @@ nav:
   - "Przewidywanie kwoty ubezpieczenia": app_predict_insurance/index.md  
 - Poprzednie projekty:
   - "Iris": iris/index.md
-  - "Survey analysis": app_survey-analysis/index.md
+  - "Survey analysis": app_survey_analysis/index.md
 
