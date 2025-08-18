@@ -1,3 +1,3 @@
 Analiza danych zawartych w ankiecie powitalnej: 
 
-[Link do aplikacji]()
+*[Link do aplikacji](https://myprojects-deployment.streamlit.app/)*
