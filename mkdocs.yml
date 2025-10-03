@@ -15,8 +15,9 @@ theme:
 nav:
 - Strona Domowa: index.md
 - Obecny projekt:
-  - "Losowania": predict_numbers/index.md
+  - "Twoja przyszłość": tarot/index.md
 - Poprzednie projekty:
   - "Iris": iris/index.md
   - "Survey analysis": app_survey_analysis/index.md
-  - "Przewidywanie kwoty ubezpieczenia": app_predict_insurance/index.md  
+  - "Przewidywanie kwoty ubezpieczenia": app_predict_insurance/index.md
+  - "Losowania": predict_numbers/index.md 
