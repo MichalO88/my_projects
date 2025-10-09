@@ -4,4 +4,4 @@ Jedno szybkie wyciągnięcie kart może ujawnić odpowiedzi, inspiracje i wskaz�
 
 🌙 Pozwól magii wejść w Twoje życie – sprawdź swój Tarot teraz i zobacz, jakie sekrety czekają, aby je odkryć! 🔮
 
-*[Aplikacja](https://appinsuranceprediction-6bzgztrq7m69bnkainnkey.streamlit.app/)*
+*[Aplikacja](https://twojtarot.streamlit.app/)*
