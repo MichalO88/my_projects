@@ -21,3 +21,6 @@ nav:
   - "Survey analysis": app_survey_analysis/index.md
   - "Przewidywanie kwoty ubezpieczenia": app_predict_insurance/index.md
   - "Losowania": predict_numbers/index.md 
+- Polityka Prywatności:
+  - PL: privacy.md
+  - EN: privacy_en.md
