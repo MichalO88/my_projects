@@ -2,34 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://MichalO88.github.io/my_projects/</loc>
-         <lastmod>2026-04-22</lastmod>
+         <lastmod>2026-04-23</lastmod>
     </url>
     <url>
          <loc>https://MichalO88.github.io/my_projects/privacy/</loc>
-         <lastmod>2026-04-22</lastmod>
+         <lastmod>2026-04-23</lastmod>
     </url>
     <url>
          <loc>https://MichalO88.github.io/my_projects/privacy_en/</loc>
-         <lastmod>2026-04-22</lastmod>
+         <lastmod>2026-04-23</lastmod>
+    </url>
+    <url>
+         <loc>https://MichalO88.github.io/my_projects/support/</loc>
+         <lastmod>2026-04-23</lastmod>
+    </url>
+    <url>
+         <loc>https://MichalO88.github.io/my_projects/support_en/</loc>
+         <lastmod>2026-04-23</lastmod>
     </url>
     <url>
          <loc>https://MichalO88.github.io/my_projects/app_predict_insurance/</loc>
-         <lastmod>2026-04-22</lastmod>
+         <lastmod>2026-04-23</lastmod>
     </url>
     <url>
          <loc>https://MichalO88.github.io/my_projects/app_survey_analysis/</loc>
-         <lastmod>2026-04-22</lastmod>
+         <lastmod>2026-04-23</lastmod>
     </url>
     <url>
          <loc>https://MichalO88.github.io/my_projects/iris/</loc>
-         <lastmod>2026-04-22</lastmod>
+         <lastmod>2026-04-23</lastmod>
     </url>
     <url>
          <loc>https://MichalO88.github.io/my_projects/predict_numbers/</loc>
-         <lastmod>2026-04-22</lastmod>
+         <lastmod>2026-04-23</lastmod>
     </url>
     <url>
          <loc>https://MichalO88.github.io/my_projects/tarot/</loc>
-         <lastmod>2026-04-22</lastmod>
+         <lastmod>2026-04-23</lastmod>
     </url>
 </urlset>
