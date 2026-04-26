@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Potwierdzono! | Unforgettable Voyages</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #007AFF;
+            --background: #F4F7F9;
+            --text: #1D1D1F;
+            --text-secondary: #86868B;
+        }
+        body { 
+            font-family: 'Outfit', sans-serif; 
+            background-color: var(--background); 
+            display: flex; 
+            justify-content: center; 
+            align-items: center; 
+            height: 100vh; 
+            margin: 0; 
+            color: var(--text);
+        }
+        .card { 
+            background: white; 
+            padding: 48px; 
+            border-radius: 32px; 
+            box-shadow: 0 20px 40px rgba(0,0,0,0.08); 
+            text-align: center; 
+            max-width: 400px; 
+            width: 90%;
+            transition: transform 0.3s ease;
+        }
+        .icon-container {
+            width: 80px;
+            height: 80px;
+            background: rgba(0, 122, 255, 0.1);
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 0 auto 24px;
+        }
+        .icon { font-size: 40px; }
+        h1 { font-weight: 700; font-size: 28px; margin-bottom: 12px; }
+        p { color: var(--text-secondary); line-height: 1.6; font-size: 16px; margin-bottom: 32px; }
+        .button { 
+            display: inline-block; 
+            width: 100%;
+            padding: 16px 0; 
+            background: var(--primary); 
+            color: white !important; 
+            text-decoration: none; 
+            border-radius: 16px; 
+            font-weight: 600; 
+            font-size: 16px;
+            box-shadow: 0 4px 12px rgba(0, 122, 255, 0.3);
+            transition: all 0.2s ease;
+        }
+        .button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0, 122, 255, 0.4);
+        }
+        .footer {
+            margin-top: 24px;
+            font-size: 12px;
+            color: var(--text-secondary);
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="icon-container">
+            <div class="icon">🌍</div>
+        </div>
+        <h1>Sukces!</h1>
+        <p>Twój adres e-mail został pomyślnie potwierdzony. Twoja przygoda z <b>Unforgettable Voyages</b> właśnie się zaczyna!</p>
+        
+        <a href="io.supabase.flutter://login-callback" class="button">Otwórz aplikację</a>
+        
+        <div class="footer">
+            Możesz teraz zamknąć to okno.
+        </div>
+    </div>
+</body>
+</html>
